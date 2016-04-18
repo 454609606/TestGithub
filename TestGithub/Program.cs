@@ -11,7 +11,8 @@ namespace TestGithub
         static void Main(string[] args)
         {
             Console.WriteLine("ok");
-            
+
+            Console.WriteLine("123");
             Console.ReadKey();
 
         }
